@@ -1,0 +1,26 @@
+item {
+  id: 1
+  name: 'vehicle'
+}
+
+item {
+  id: 2
+  name: 'traffic_light'
+}
+
+item {
+  id: 3
+  name: 'traffic_sign'
+}
+
+item {
+  id: 4
+  name: 'bike'
+}
+
+item {
+  id: 5
+  name: 'motobike'
+}
+
+
